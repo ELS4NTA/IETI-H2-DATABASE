@@ -70,3 +70,9 @@ spring.h2.console.settings.web-allow-others=false
 ```
 
 Ejecutamos la aplicación y accedemos a la consola de H2 en la ruta [http://localhost:8080/h2-console](http://localhost:8080/h2-console)
+
+![image](https://github.com/ELS4NTA/IETI-H2-DATABASE/assets/99996670/f2dfeee0-0c8f-4a5f-99d3-72ca513ef07f)
+
+Accediendo con las credenciales que establecimos en el archivo `application.properties`
+
+![image](https://github.com/ELS4NTA/IETI-H2-DATABASE/assets/99996670/fbeb9524-0f7f-4c6c-ac77-1ff84efa6eb4)
